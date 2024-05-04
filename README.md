@@ -1,6 +1,6 @@
 # test-readme
 testing github readmes
 
-![Bucolic scene](bucolic.jpeg)
+![Bucolic scene](_bucolic.jpeg)
 
 Blah.
