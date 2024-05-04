@@ -1,0 +1,6 @@
+name: Foo
+identifier: com.pilotmoon.test-2024-05-04-bucolic-scene-readme
+description: This is for testing images in READMEs in the directory
+actions:
+- {}
+  
